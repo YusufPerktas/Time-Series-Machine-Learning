@@ -6,7 +6,7 @@ Bu proje, ham petrol fiyatlarını tahmin etmek amacıyla zaman serisi analizine
 Ham petrol fiyatları üzerine zaman serisi tahmin modelinin geliştirilmesi amaçlanan bu projede, ilk aşama veri toplama, ön işleme ve görselleştirmeden oluşmaktadır. Proje verilerini Yahoo Finance'ten Python Selenium ve Pandas kullanarak çektik ve bu verileri uygun formatta CSV dosyalarına kaydettik. Daha sonra finansal analizde sıklıkla kullanılan indikatörler hesaplanarak veri kümesine eklendi. Son olarak, verileri görselleştirerek anlamlı analizler yapılabilmesi için gerekli grafikler oluşturuldu.
 
 ## Kullanılan Teknolojiler
-- **Python 3**
+- **Python 3.9.0**
 - **Selenium** - Web scraping işlemleri için
 - **Pandas** - Veri işleme ve düzenleme
 - **Pandas_ta** - İndikatör hesaplamaları için
