@@ -53,7 +53,8 @@ Veri setine ait önemli trendleri ve dağılımları göstermek amacıyla çeşi
 7. **Altın İndex**: Açılış, En Yüksek, En Düşük, Kapanış
 8. **USD İndex**: Açılış, En Yüksek, En Düşük, Kapanış
 
-
+![Grafik 1](https://raw.githubusercontent.com/YusufPerktas/Time-Series-Machine-Learning/refs/heads/main/Data%20Collection%20and%20Preprocessing/Data/Grafik%201.png)
+![Grafik 1](https://raw.githubusercontent.com/YusufPerktas/Time-Series-Machine-Learning/refs/heads/main/Data%20Collection%20and%20Preprocessing/Data/Grafik%202.png)
 
 Grafikler, `Matplotlib` ve `Seaborn` kütüphaneleri kullanılarak görselleştirildi.
 
